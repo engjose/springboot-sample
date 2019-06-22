@@ -1,0 +1,7 @@
+user:
+  userName: TOM
+  userAge: 23
+spring:
+  profiles:
+    active: dev
+
