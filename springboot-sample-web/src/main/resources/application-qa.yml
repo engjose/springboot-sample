@@ -1,1 +1,4 @@
 app-env: qa
+
+logging:
+  config: classpath:logback-spring-qa.xml

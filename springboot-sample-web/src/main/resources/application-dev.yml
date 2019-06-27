@@ -1,1 +1,4 @@
 app-env: dev
+
+logging:
+  config: classpath:logback-spring-dev.xml

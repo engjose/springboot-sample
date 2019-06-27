@@ -4,4 +4,3 @@ user:
 spring:
   profiles:
     active: dev
-
