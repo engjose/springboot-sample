@@ -6,4 +6,6 @@
 
 [(三) springboot生产级日志配置](https://github.com/engjose/springboot-sample/wiki/Spring-Boot(03)-SpringBoot%E7%94%9F%E4%BA%A7%E7%BA%A7%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E9%85%8D%E7%BD%AE)
 
+[(三) springboot集成Mybatis](https://github.com/engjose/springboot-sample/wiki/Spring-Boot(03)-SpringBoot%E7%94%9F%E4%BA%A7%E7%BA%A7%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E9%85%8D%E7%BD%AE)
+
 
